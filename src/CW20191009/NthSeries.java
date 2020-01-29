@@ -17,4 +17,5 @@ public class NthSeries {
         System.out.println(seriesSum(3));
     }
 
+
 }
